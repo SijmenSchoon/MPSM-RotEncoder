@@ -10,6 +10,6 @@ connect the orange cable to ground.
 ## Usage
 Open up a serial monitor (115200 baud).
 
-  - 'l':   Move counter-clockwise
-  - 'r':   Move clockwise
+  - 'a':   Move counter-clockwise
+  - 'd':   Move clockwise
   - space: Confirm option
